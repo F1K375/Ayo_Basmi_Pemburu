@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Dunia()
+comment1.params=
+comment1.target=void\ chooseLVL()
+comment2.params=
+comment2.target=void\ Level1()
+comment3.params=
+comment3.target=void\ Level2()
+comment4.params=
+comment4.target=void\ Win()
+comment5.params=
+comment5.target=void\ gameover()
+comment6.params=tanah
+comment6.target=void\ Buat_tanah(int[])
+comment7.params=
+comment7.target=Score\ score()
+comment8.params=
+comment8.target=Polisi\ cek()
+comment9.params=
+comment9.target=void\ prepare()
+comment9.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\ That\ is\:\ create\ the\ initial\r\n\ objects\ and\ add\ them\ to\ the\ world.\r\n
+numComments=10

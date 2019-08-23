@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=boolean\ bawah_tanah()
+comment1.params=arah
+comment1.target=boolean\ nabrak_tanah(java.lang.String)
+comment2.params=
+comment2.target=boolean\ kena_tanah()
+comment3.params=
+comment3.target=void\ cek_jatuh()
+comment4.params=x
+comment4.target=void\ setJatuh(int)
+comment5.params=
+comment5.target=void\ jatuh()
+numComments=6
